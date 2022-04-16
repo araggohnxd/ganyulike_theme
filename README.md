@@ -11,7 +11,7 @@
 
 ## Installation
 
-This theme is not currently on VSCode's Extesion Marketplace. I may or may not put it there. I'm that lazy. Until then, follow these steps:
+This theme is not currently on VSCode's Extension Marketplace. I may or may not put it there. I'm that lazy. Until then, follow these steps:
 
 1. Clone this repository;
 1. Jump into the directory where you cloned it;
