@@ -1,0 +1,37 @@
+{
+	"name": "ganyulike-theme",
+	"displayName": "Ganyulike Theme",
+	"description": "Theme inspired by resyfer's \"Ganyu\", a Windows Terminal theme.",
+	"publisher": "araggohnxd",
+	"author": {
+	  "name": "Matheus Oliveira"
+	},
+	"version": "0.0.1",
+	"engines": {
+	  "vscode": "^1.46.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/araggohnxd/ganyulike_theme"
+	  },
+	"galleryBanner": {
+	  "color": "#221b2f",
+	  "theme": "dark"
+	},
+	"keywords": [
+	  "Ganyulike Theme",
+	  "Dark Theme",
+	  "Purple Theme",
+	  "Purple",
+	  "Blue"
+	],
+	"contributes": {
+	  "themes": [
+		{
+		  "label": "Ganyulike Theme",
+		  "uiTheme": "vs-dark",
+		  "path": "./themes/ganyulike_theme.json"
+		}
+	  ]
+	}
+  }
