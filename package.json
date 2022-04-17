@@ -18,6 +18,10 @@
 	  "color": "#221b2f",
 	  "theme": "dark"
 	},
+	"icon": "images/icon/ganyulike_theme_icon.jpg",
+	"categories": [
+	  "Themes"
+	],
 	"keywords": [
 	  "Ganyulike Theme",
 	  "Dark Theme",

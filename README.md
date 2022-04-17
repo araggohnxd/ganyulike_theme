@@ -1,4 +1,4 @@
-![Ganyulike Theme in C](./images/ganyulike_theme_screenshot1.png)
+![Ganyulike Theme in C](https://raw.githubusercontent.com/araggohnxd/ganyulike_theme/master/images/ganyulike_theme_screenshot1.png)
 
 # About the Ganyulike Theme
 
@@ -11,15 +11,20 @@
 
 ## Installation
 
-This theme is not currently on VSCode's Extension Marketplace. I may or may not put it there. I'm that lazy. Until then, follow these steps:
-
-1. Clone this repository;
-1. Jump into the directory where you cloned it;
-1. Run ```code --install-extension ganyulike-theme-0.0.1.vsix```;
+1. Open your VSCode Extension tab (Ctrl + Shift + X);
+1. Search for "Ganyulike Theme" on the search bar;
+1. Click "Install", then reload your VSCode;
 1. Go to your Preferences > Color Theme > Ganyulike Theme;
 1. Done!
 
 #
 
-![Ganyulike Theme Welcome](./images/ganyulike_theme_screenshot2.png)
-![Ganyulike Theme JSON](./images/ganyulike_theme_screenshot3.png)
+![Ganyulike Theme Welcome](https://raw.githubusercontent.com/araggohnxd/ganyulike_theme/master/images/ganyulike_theme_screenshot2.png)
+![Ganyulike Theme JSON](https://raw.githubusercontent.com/araggohnxd/ganyulike_theme/master/images/ganyulike_theme_screenshot3.png)
+
+
+#
+
+### If you are now wondering how does the Terminal theme looks like, here's a taste, and you can click on it to test on your own!
+
+[![Original Ganyu Theme](https://raw.githubusercontent.com/araggohnxd/ganyulike_theme/master/images/ganyu_terminal_theme.png)](https://windowsterminalthemes.dev/?theme=Ganyu)
