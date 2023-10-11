@@ -134,7 +134,7 @@
 		"name": "Reset embedded/template expression colors",
 		"scope": "meta.embedded, source.groovy.embedded, meta.template.expression",
 		"settings": {
-		  "foreground": "#322a51"
+		  "foreground": "#d7c6a4"
 		}
 	  },
 	  {
