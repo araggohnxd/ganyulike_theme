@@ -6,7 +6,7 @@
 	"author": {
 		"name": "Matheus Oliveira"
 	},
-	"version": "0.0.5",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
